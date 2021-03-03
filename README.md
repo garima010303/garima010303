@@ -14,13 +14,19 @@
 <hr>
 
 ## :bulb: GitHub Stats
- 
- <img src="https://github-readme-stats.vercel.app/api?username=garima010303&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+ <a href="https://github.com/garima010303">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=garima010303&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
+</a>
+
  <hr>
  
  ## 📫 How to reach me:
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.instagram.com/garima._.gupta/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<a rel="https://www.facebook.com/profile.php?id=100037254421548" target="_blank" ><img alt="Facebook" src="https://img.shields.io/badge/facebook%20-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+<a rel="https://www.linkedin.com/in/garima-gupta-8a5908205/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230070B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
