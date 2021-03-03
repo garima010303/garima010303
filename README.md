@@ -5,6 +5,8 @@
 
 - :sparkles:  _First Year_ student of _CSE_ at **NIT HAMIRPUR**. 
 
+- :fire: Explore mode is on.
+
 - 🌱 I’m currently learning JavaScript, Cyber Security & Ethical Hacking.
 
 - 💬 Tech. I know: ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
