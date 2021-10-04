@@ -3,11 +3,11 @@
 ### 𝕴'𝖒 𝕲𝖆𝖗𝖎𝖒𝖆 𝕲𝖚𝖕𝖙𝖆<hr>
 #### ABOUT ME
 
-- :sparkles:  _First Year_ student of _CSE_ at **NIT HAMIRPUR**. 
+- :sparkles:  _Sophomore_  _CSE_ at **NIT HAMIRPUR**. 
 
 - :fire: Explore mode is on.
 
-- 🌱 I’m currently learning OpenCV, C Programming.
+- 🌱 I’m currently learning DSA, OOPs.
 
 - 💬 Tech. I know: ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
                    ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
